@@ -9,9 +9,6 @@
 <ul>
     <li>
         <h2>Project</h2>
-        #027373 <br>
-        #038C7F <br>
-        #A9D9D0 <br>
         #F2E7DC <br>
         #0D0D0D <br>
     </li>
